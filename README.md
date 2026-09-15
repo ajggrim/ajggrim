@@ -10,7 +10,7 @@ B.S. Computer Science | Expected Graduation May 2029
 ## :computer: Technical Skills
 
 **Languages** Java, Python<br>
-**Tools** GitHub, Jupyter Notebook, Pandas, Microsoft Office
+**Tools & Technologies** GitHub, Jupyter Notebook, Pandas, Microsoft Office
 
 ## :lock: Areas of Interest
 
