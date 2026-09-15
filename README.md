@@ -9,7 +9,7 @@ B.S. Computer Science | Expected Graduation May 2029
 
 ## :computer: Technical Skills
 
-**Languages** Java, Python
+**Languages** Java, Python<br>
 **Tools** GitHub, Jupyter Notebook, Pandas, Microsoft Office
 
 ## :lock: Areas of Interest
@@ -22,5 +22,5 @@ B.S. Computer Science | Expected Graduation May 2029
 
 ## :mailbox: Connect With Me
 
-- LinkedIn: linkedin.com/in/andrewjgrim
+- LinkedIn: [linkedin.com/in/andrewjgrim](https://www.linkedin.com/in/andrewjgrim/)
 - Email: ajggrim@gmail.com
