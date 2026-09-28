@@ -5,7 +5,7 @@ I'm an Information Science student at the University of Pittsburgh interested in
 ## :mortar_board: Education
 
 **University of Pittsburgh**
-B.S. Information Science | Expected Graduation May 2029
+B.S. Information Science | Expected Graduation May 2029<br>
 Double Minor in Computer Science and Law, Criminal Justice, & Society
 
 ## :computer: Technical Skills
